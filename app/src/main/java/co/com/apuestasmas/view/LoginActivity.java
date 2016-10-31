@@ -1,4 +1,4 @@
-package co.com.apuestasmas;
+package co.com.apuestasmas.view;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -31,6 +31,8 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import co.com.apuestasmas.R;
 
 import static android.Manifest.permission.READ_CONTACTS;
 
