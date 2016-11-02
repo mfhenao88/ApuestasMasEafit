@@ -1,7 +1,7 @@
 package co.com.apuestasmas.view;
 
-import android.app.Activity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.ListView;
 
 import java.util.ArrayList;
@@ -14,7 +14,7 @@ import co.com.apuestasmas.dto.Apuesta;
  * Created by manuelhenao on 31/10/16.
  */
 
-public class ApuestasActivity extends Activity {
+public class ApuestasActivity extends AppCompatActivity {
     ListView listView;
 
     @Override
