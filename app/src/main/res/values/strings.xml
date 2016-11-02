@@ -13,4 +13,10 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+
+    <string name="nombre_apuesta">Apuesta:</string>
+    <string name="valor_apuesta">Valor:</string>
+    <string name="resultado_apuesta">Resultado:</string>
+
+
 </resources>
