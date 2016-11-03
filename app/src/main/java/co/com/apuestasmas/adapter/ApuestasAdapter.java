@@ -35,9 +35,9 @@ public class ApuestasAdapter extends ArrayAdapter<Apuesta> {
         TextView valorApostadoTextView = (TextView) convertView.findViewById(R.id.valorApostadoTextView);
         TextView resultadoApostadoTextView = (TextView) convertView.findViewById(R.id.resultadoApostadoTextView);
 
-        nombreApuestaTextView.setText(apuesta.getNombreApuesta());
+/*        nombreApuestaTextView.setText(apuesta.getNombreApuesta());
         valorApostadoTextView.setText("" + apuesta.getValorApostado());
-        resultadoApostadoTextView.setText(apuesta.getResultadoApostado());
+        resultadoApostadoTextView.setText(apuesta.getResultadoApostado());*/
         return convertView;
     }
 }
