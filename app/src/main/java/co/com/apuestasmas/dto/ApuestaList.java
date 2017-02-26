@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.util.List;
 
 /**
- * Created by manuelhenao on 2/11/16.
+ * Created by manuelhenao
  */
 
 public class ApuestaList implements Serializable {

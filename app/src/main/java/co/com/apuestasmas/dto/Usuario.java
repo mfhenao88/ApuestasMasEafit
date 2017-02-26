@@ -3,7 +3,7 @@ package co.com.apuestasmas.dto;
 import java.io.Serializable;
 
 /**
- * Created by manuelhenao on 2/11/16.
+ * Created by manuelhenao
  */
 
 public class Usuario implements Serializable {
